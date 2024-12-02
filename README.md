@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 This is Shihang Wang
+
+👨‍🎓 I am a master student in ShanghaiTech University. 👉 [Home Page](https://shihang-wang-58.github.io/Shihang-Wang/)
+
+🔭 Research Interests: AIDD, Molecular Representation, Multi-Modal Learning and AI4Science.
+
+📫 How to reach me: wangshh12022@shanghaitech.edu.cn
 
 <!--
 **Shihang-Wang-58/Shihang-Wang-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
