@@ -2,7 +2,7 @@
 
 👨‍🎓 I am a master student in ShanghaiTech University. 👉 [Home Page](https://shihang-wang-58.github.io/Shihang-Wang/)
 
-🔭 Research Interests: AIDD, Molecular Representation, Multi-Modal Learning and AI4Science.
+🔭 Research Interests: Virtual Screening, Molecular Representation, Multi-Modal Learning and AI4Science.
 
 📫 How to reach me: wangshh12022@shanghaitech.edu.cn
 
