@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Shihang Wang
 
-👨‍🎓 I am a master student in ShanghaiTech University. 
+👨‍🎓 I am a master student in ShanghaiTech University. 👉 [Home Page](https://shihang-wang-58.github.io/Shihang-Wang/)
 
 🔭 Research Interests: Virtual Screening, Molecular Representation, Multi-Modal Learning and AI4Science.
 
