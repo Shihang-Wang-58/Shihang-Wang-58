@@ -8,7 +8,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shihang-wang-58&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shihang-wang-58&theme=react-dark)
 
 
 <!--
