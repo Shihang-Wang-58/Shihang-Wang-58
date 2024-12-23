@@ -6,6 +6,11 @@
 
 📫 How to reach me: wangshh12022@shanghaitech.edu.cn
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shihang-wang-58&show_icons=true&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shihang-wang-58&theme=react-dark)
+
+
 <!--
 **Shihang-Wang-58/Shihang-Wang-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
