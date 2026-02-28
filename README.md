@@ -4,7 +4,7 @@
 
 🔭 Research Interests: Virtual Screening, Molecular Representation, Multi-Modal Learning and AI4Science.
 
-📫 How to reach me: wshshou@163.com
+📫 How to reach me: shihangwang58@outlook.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shihang-wang-58&show_icons=true&theme=radical)
 
